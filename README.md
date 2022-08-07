@@ -1,8 +1,8 @@
 # Rubiks-Cube
 Javascript Rubik's Cube Project coded by SpiffyCheese.
 
-Version: 0.1.0
+Version: 0.2.0
 
-Version Released: 12/4/2019 
+Version Released: 8/7/2022 
 
 Copyright © 2019 by Austin Baio
